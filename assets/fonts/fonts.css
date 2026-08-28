@@ -1,0 +1,63 @@
+/* Hello Sugar brand fonts. Import this once (e.g. in your global CSS / layout)
+   and the families referenced by the --hs-font-* tokens resolve correctly.
+
+   Montserrat is also available on Google Fonts if you prefer not to self-host:
+     https://fonts.google.com/specimen/Montserrat
+   LiebeLotte is a licensed font — confirm your web-embedding license before
+   shipping it on any public-facing surface. Internal tools are typically fine,
+   but verify. Montserrat (OFL) and Fifita (free) are safe to embed.
+
+   Paths assume the fonts/ folder sits next to this file. Adjust as needed. */
+
+/* ---- Montserrat: the UI workhorse (all body, labels, headings) ---- */
+@font-face {
+  font-family: "Montserrat";
+  src: url("./Montserrat-Light.otf") format("opentype");
+  font-weight: 300; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("./Montserrat-Regular.otf") format("opentype");
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("./Montserrat-Medium.otf") format("opentype");
+  font-weight: 500; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("./Montserrat-SemiBold.otf") format("opentype");
+  font-weight: 600; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("./Montserrat-Bold.otf") format("opentype");
+  font-weight: 700; font-style: normal; font-display: swap;
+}
+
+/* ---- LiebeLotte: the brand script, for big brand moments only ---- */
+@font-face {
+  font-family: "LiebeLotte";
+  src: url("./LiebeLotte-Medium.ttf") format("truetype");
+  font-weight: 500; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: "LiebeLotte";
+  src: url("./LiebeLotte-Bold.ttf") format("truetype");
+  font-weight: 700; font-style: normal; font-display: swap;
+}
+
+/* ---- Fifita: secondary display option ---- */
+@font-face {
+  font-family: "Fifita";
+  src: url("./Fifita-Regular.ttf") format("truetype");
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+
+/* ---- Montserrat Alternates: occasional display alt ---- */
+@font-face {
+  font-family: "Montserrat Alternates";
+  src: url("./MontserratAlternates-Light.otf") format("opentype");
+  font-weight: 300; font-style: normal; font-display: swap;
+}

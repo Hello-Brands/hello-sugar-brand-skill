@@ -1,0 +1,94 @@
+/* AUTO-GENERATED from tokens.json by generate.py — do not edit by hand. */
+:root {
+  /* brand */
+  --hs-brand-crimson: #ED1845;
+  --hs-brand-blush: #F7DCDA;
+  --hs-brand-rose: #AD4C52;
+  --hs-brand-sand: #E2CCB9;
+  --hs-brand-tan: #D3AD90;
+  --hs-brand-caramel: #BB8265;
+  --hs-brand-taupe: #8F7067;
+  --hs-brand-mauve: #CBA499;
+  --hs-brand-cream: #EEE2DA;
+
+  /* color */
+  --hs-color-primary: #ED1845;
+  --hs-color-primary-strong: #C9143B;
+  --hs-color-primary-soft: #F7DCDA;
+  --hs-color-on-primary: #FFFFFF;
+  --hs-color-accent: #BB8265;
+  --hs-color-accent-soft: #E2CCB9;
+  --hs-color-deep: #AD4C52;
+  --hs-color-bg: #EEE2DA;
+  --hs-color-surface: #FFFFFF;
+  --hs-color-surface-alt: #F7F2EE;
+  --hs-color-border: #D9C9C1;
+  --hs-color-border-strong: #CBA499;
+  --hs-color-text: #1F1917;
+  --hs-color-text-muted: #8F7067;
+  --hs-color-text-subtle: #CBA499;
+  --hs-color-on-dark: #FFFFFF;
+  --hs-color-focus: #ED1845;
+  --hs-color-success: #3F7D5B;
+  --hs-color-success-soft: #DBEBE1;
+  --hs-color-warning: #B9772E;
+  --hs-color-warning-soft: #F3E4D0;
+  --hs-color-danger: #C0142F;
+  --hs-color-danger-soft: #F7DCDA;
+  --hs-color-info: #5B7C8F;
+  --hs-color-info-soft: #DEE8ED;
+
+  /* font */
+  --hs-font-sans: "Montserrat", system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --hs-font-display: "LiebeLotte", "Fifita", "Montserrat", cursive;
+  --hs-font-alt: "Montserrat Alternates", "Montserrat", sans-serif;
+
+  /* font-weight */
+  --hs-font-weight-light: 300;
+  --hs-font-weight-regular: 400;
+  --hs-font-weight-medium: 500;
+  --hs-font-weight-semibold: 600;
+  --hs-font-weight-bold: 700;
+
+  /* font-size */
+  --hs-font-size-xs: 0.75rem;
+  --hs-font-size-sm: 0.875rem;
+  --hs-font-size-base: 1rem;
+  --hs-font-size-lg: 1.125rem;
+  --hs-font-size-xl: 1.25rem;
+  --hs-font-size-2xl: 1.5rem;
+  --hs-font-size-3xl: 1.875rem;
+  --hs-font-size-4xl: 2.25rem;
+  --hs-font-size-5xl: 3rem;
+
+  /* line-height */
+  --hs-leading-tight: 1.15;
+  --hs-leading-snug: 1.3;
+  --hs-leading-normal: 1.5;
+  --hs-leading-relaxed: 1.65;
+
+  /* radius */
+  --hs-radius-sm: 6px;
+  --hs-radius-md: 10px;
+  --hs-radius-lg: 16px;
+  --hs-radius-xl: 24px;
+  --hs-radius-pill: 999px;
+
+  /* space */
+  --hs-space-1: 0.25rem;
+  --hs-space-2: 0.5rem;
+  --hs-space-3: 0.75rem;
+  --hs-space-4: 1rem;
+  --hs-space-5: 1.25rem;
+  --hs-space-6: 1.5rem;
+  --hs-space-8: 2rem;
+  --hs-space-10: 2.5rem;
+  --hs-space-12: 3rem;
+  --hs-space-16: 4rem;
+
+  /* shadow */
+  --hs-shadow-sm: 0 1px 2px rgba(31, 25, 23, 0.06);
+  --hs-shadow-md: 0 4px 12px rgba(31, 25, 23, 0.08);
+  --hs-shadow-lg: 0 12px 32px rgba(31, 25, 23, 0.12);
+
+}
